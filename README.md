@@ -4,7 +4,7 @@ Player used: omxplayer
 
 ## Getting Started and requirement
 
-You must have python installed in your raspberry
+You must have python installed in your raspberry (https://www.python.org/)
 
 ```
 sudo apt-get install python3
